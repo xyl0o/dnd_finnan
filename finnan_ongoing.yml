@@ -1,0 +1,27 @@
+
+current hit points: 25
+death saving throws: []
+exhaustion:
+  lvl: 1
+  debuffs:
+    - disadvantage ability check
+
+current hit die: 2
+
+currency:
+  gold: 201
+  silver: 208
+  ep: 15
+  copper: 13
+
+silda items:
+  - smaragd gold frosh statue
+  - great axe
+  - 3 javelins
+  - chain mail
+  - longbow
+
+log:
+  - found 120 gold and 160 silver in ruins
+  - brotor did find 5 malachites (15 gold each)
+  - 
