@@ -17,7 +17,7 @@ intel:
       - typ finden
       - belohnung 200 Gold
   - gundrin rockseeker
-    - cragmraw castle
+    - cragmaw castle
   - helia thauntin minors exchange ferngehalten.
   - Aunt Qelline Alderlead
   - darry
@@ -27,17 +27,30 @@ intel:
       - untersuchen
 
 characters:
+  gundrin rockseeker:
+    - entführt nach cragmaw castle
+    - cousin von brotor
+
+  lords alliance:
+    - silda war mitglied
+    - jano jano albrech war mitglied (verraten)
+    - cragmaw castle clearen -> 500 Gold
+
   jano albrech:
     - silda wollte ihn finden
     - glasstaff
     - leiter der diebe in Phandalin
     - von schwarzer spinne beauftragt
-    
 
   schwarze spinne:
     - auf der suche nach wellenechohöle
     - schickte buckbears
     - beauftragte jano
+
+  helia thauntin:
+    - minors exchange ferngehalten
+    - gab uns 420 gold für das erledigen der Banditen
+    - gab uns brief von lords alliance (cragmaw castle)
 
 Waldelf:
   Thor "Ten Punch man!" Thudnerfist
