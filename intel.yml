@@ -26,5 +26,18 @@ intel:
       - untote?
       - untersuchen
 
+characters:
+  jano albrech:
+    - silda wollte ihn finden
+    - glasstaff
+    - leiter der diebe in Phandalin
+    - von schwarzer spinne beauftragt
+    
+
+  schwarze spinne:
+    - auf der suche nach wellenechohöle
+    - schickte buckbears
+    - beauftragte jano
+
 Waldelf:
   Thor "Ten Punch man!" Thudnerfist
