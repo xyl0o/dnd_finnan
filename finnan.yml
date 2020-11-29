@@ -1,0 +1,216 @@
+
+stats:
+  str:
+    mod: -1
+    level: 8
+    saving: -1
+  dex:
+    mod: +4
+    level: 18
+    saving: +6
+  con:
+    mod: +1
+    level: 12
+    saving: +1
+  int:
+    mod: +1
+    level: 13
+    saving: +3
+  wis:
+    mod: +0
+    level: 10
+    saving: +0
+  cha:
+    mod: +3
+    level: 16
+    saving: +3
+
+skills:
+  acrobatics:
+    mod: +6
+    base: dex
+    focus: yes
+  animal handling:
+    mod: +0
+    base: wis
+    focus: no
+  arcana:
+    mod: +1
+    base: int
+    focus: no
+  athletics:
+    mod: -1
+    base: str
+    focus: no
+  deception:
+    mod: +5
+    base: cha
+    focus: yes
+  history:
+    mod: +1
+    base: int
+    focus: no
+  insights:
+    mod: +0
+    base: wis
+    focus: no
+  intimidation:
+    mod: +3
+    base: cha
+    focus: no
+  investigation:
+    mod: +3
+    base: int
+    focus: yes
+  medicine:
+    mod: +0
+    base: wis
+    focus: no
+  nature:
+    mod: +1
+    base: int
+    focus: no
+  perception:
+    mod: +0
+    base: wis
+    focus: no
+  performance:
+    mod: +5
+    base: cha
+    focus: yes
+  persuasion:
+    mod: +3
+    base: cha
+    focus: no
+  religion:
+    mod: +1
+    base: int
+    focus: no
+  sleight of hand:
+    mod: +6
+    base: dex
+    focus: yes
+  stealth:
+    mod: +8
+    base: dex
+    focus: yes
+  survival:
+    mod: +0
+    base: wis
+    focus: no
+
+passive wisdom: 10
+
+level: 4
+
+armor class: 16
+initiative: +4
+speed: 25 #ft
+proficiency: +2
+
+proficiencies:
+  - light armor
+  - simple weapons
+  - hand crossbows
+  - longswords
+  - rapiers
+  - shortswords
+  - thieves' tools
+  - playing cards
+  - carpenter's tools
+
+personal:
+  expertise: |
+    When you make a Dexterity (Stealth) check or a check using thieves’­ tools, your proficiency bonus is doubled. This benefit is included in your Stealth skill bonus.
+  personality traits: |
+    I never have a plan, but I’m great at making things up as I go along. Also, the best way to get me to do something is to tell me I can’t do it.
+  ideals: |
+    People. I’m loyal to my friends, not to any ideals.­ Everyone ­else ­can ­take ­a trip ­on the River Styx for all I care.
+  bonds: |
+    Qelline Alderlead, my aunt, has a farm in Phandalin. I always give her some of my ill-gotten gains.
+  flaws: |
+    My ­aunt ­must ­never ­know ­the ­deeds. I did ­as a member of the Redbrands.
+
+languages:
+  - common
+  - halfling
+
+abilities:
+  - name: Sneak Attack
+    desc: |
+      Once per turn, when you hit a creature with a Dexterity-based attack (such as with your shortsword or shortbow) and you have advantage on the attack roll, you can deal an extra 1d6 damage to your target. You don’t need advantage if another enemy of the target is within 5 feet of it and isn’t incapacitated. You can’t deal the extra damage, however, if you have disadvantage on the attack roll.
+  - name: Lucky
+    desc: |
+      When you roll a natural 1 on an ­attack roll,­ ability­ check,­ or­ saving­ throw,­ you­ can­ reroll the die and must use the new roll.
+  - name: Brave
+    desc: |
+      You have advantage on saving throws against being frightened.
+  - name: Halfling Nimbleness
+    desc: |
+      You can move through the­ space of any creature that is of a size larger than yours.Naturally Stealthy. You can attempt to hide when you are obscured by a creature that is at least one size larger than you.
+  - name: Criminal Contact
+    desc: |
+      You have a contact who acts ­as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; you know the local messengers, corrupt caravan masters, and seedy sailors who can carry messages for you. You can move secret information or stolen goods through your contact in exchange for money or other information ­you ­seek.
+  - name: Naturally Stealhy
+  - name: Cunning Action
+  - name: Second-story Work
+  - name: Fast Hands
+  - name: Thieves’ Cant
+    desc: |
+      You know thieves’­ cant,­ a­ secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. You also understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous, whether loot is nearby, or whether the ­people ­in ­an area ­are easy marks or will provide a safe house for thieves on the run.
+
+armor:
+  - studded leather armor
+
+attacks:
+  - shortsword:
+      atk: +6
+      damage: 1d6 + 4
+      type: piercing
+  - shortsword:
+      atk: +6
+      damage: 1d6 + 4
+      type: piercing
+  - shortbow:
+      atk: +6
+      damage: 1d6 + 4
+      type: piercing
+      range: 80/320
+
+max hit points: 26
+hit die:
+  num: 4
+  type: d8
+
+items:
+  - item: Shortsword
+    amount: 2
+  - item: Shortbow
+  - item: Arrows
+    amount: 20
+  - item: Studded leather armor
+  - item: Thieves' tools
+  - item: Backpack
+  - item: Bell
+  - item: Candles
+    amount: 5
+  - item: Potions of healing (2d4+2)
+    amount: 1
+  - item: Crowbar
+  - item: Hammer
+  - item: Pitons
+    amount: 10
+  - item: Feet of hempen rope
+    amount: 50
+  - item: Hooded lantern
+  - item: Flasks of oil
+    amount: 2
+  - item: Days rations
+    amount: 5
+  - item: Tinderbox
+  - item: Waterskin
+  - item: Crowbar
+  - item: Set of dark common clothes including a hood
+  - item: Pouch
+  - item: Garnet (10 gold)
+    amount: 2
