@@ -1,5 +1,5 @@
 
-current hit points: 19
+current hit points: 26
 death saving throws: []
 exhaustion:
   lvl: 0
@@ -23,4 +23,8 @@ items:
   - item: Days rations
     amount: 4
   - item: Potions of healing (2d4+2)
-    amount: 1
+    amount: 2
+  - item: looted gold
+    amount: 23
+  - item: looted silver
+    amount: 35
