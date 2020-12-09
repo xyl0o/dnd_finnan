@@ -1,15 +1,15 @@
 
-current hit points: 26
+current hit points: 24
 death saving throws: []
 exhaustion:
   lvl: 0
   debuffs: []
 
-current hit die: 4
+current hit die: 2
 
 currency:
-  gold: 348
-  silver: 208
+  gold: 196
+  silver: 202
   ep: 15
   copper: 13
 
@@ -19,3 +19,7 @@ silda items:
   - 3 javelins
   - chain mail
   - longbow
+
+items:
+  - item: Days rations
+    amount: 4
