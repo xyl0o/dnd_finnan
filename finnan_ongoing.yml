@@ -7,10 +7,10 @@ exhaustion:
 current hit die: 4
 
 currency:
-  gold: 196
-  silver: 202
+  gold: 226
+  silver: 255
   ep: 15
-  copper: 13
+  copper: 246
 
 silda items:
   - smaragd gold frosh statue
