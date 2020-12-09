@@ -194,8 +194,6 @@ items:
   - item: Bell
   - item: Candles
     amount: 5
-  - item: Potions of healing (2d4+2)
-    amount: 3
   - item: Crowbar
   - item: Hammer
   - item: Pitons
