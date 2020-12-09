@@ -147,11 +147,13 @@ abilities:
       You have advantage on saving throws against being frightened.
   - name: Halfling Nimbleness
     desc: |
-      You can move through the­ space of any creature that is of a size larger than yours.Naturally Stealthy. You can attempt to hide when you are obscured by a creature that is at least one size larger than you.
+      You can move through the space of any creature that is of a size larger than yours.
   - name: Criminal Contact
     desc: |
       You have a contact who acts ­as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; you know the local messengers, corrupt caravan masters, and seedy sailors who can carry messages for you. You can move secret information or stolen goods through your contact in exchange for money or other information ­you ­seek.
-  - name: Naturally Stealhy
+  - name: Naturally Stealthy
+    desc: |
+      You can attempt to hide when you are obscured by a creature that is at least one size larger than you.
   - name: Cunning Action
   - name: Second-story Work
   - name: Fast Hands
