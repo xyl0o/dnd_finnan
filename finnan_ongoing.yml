@@ -2,10 +2,9 @@
 current hit points: 26
 death saving throws: []
 exhaustion:
-  lvl: 0
-  debuffs: []
+  lvl: 1
 
-current hit die: 4
+current hit die: 2
 
 currency:
   gold: 196
@@ -23,3 +22,5 @@ silda items:
 items:
   - item: Days rations
     amount: 4
+  - item: Potions of healing (2d4+2)
+    amount: 1
