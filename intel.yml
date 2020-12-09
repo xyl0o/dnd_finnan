@@ -18,7 +18,7 @@ intel:
       - belohnung 200 Gold
   - gundrin rockseeker
     - cragmaw castle
-      -> druide raidaf, freund von meiner tante (sagen)
+      -> druide reidoth, freund von meiner tante (sagen)
       -> thundertree
   - helia thauntin minors exchange ferngehalten.
   - Aunt Qelline Alderlead
@@ -51,8 +51,17 @@ characters:
 
   helia thauntin:
     - minors exchange ferngehalten
-    - gab uns 420 gold für das erledigen der Banditen
+    - gab uns 420 gold für das Erledigen der Banditen
     - gab uns brief von lords alliance (cragmaw castle)
 
-Waldelf:
-  Thor "Ten Punch man!" Thudnerfist
+  Waldelf:
+    - Thor Thunderfist
+    - also known as "Ten Punch man!"
+
+  Druide Reidoth:
+    - Lebt in Thundertree
+    - Kennt Cragmaw Castle
+    - Südliche spitze, 6 Meilen in den Wald hinein
+    - Es sind hier Zombies unterwegs
+    - Freunde "squrirrel" und "mirrel" (Eichhörnchen) haben ihn mal vor einem Falken gerettet.
+    - Drache lebt im Turm
