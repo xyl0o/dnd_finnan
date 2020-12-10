@@ -138,7 +138,7 @@ languages:
 abilities:
   - name: Sneak Attack
     desc: |
-      Once per turn, when you hit a creature with a Dexterity-based attack (such as with your shortsword or shortbow) and you have advantage on the attack roll, you can deal an extra 1d6 damage to your target. You don’t need advantage if another enemy of the target is within 5 feet of it and isn’t incapacitated. You can’t deal the extra damage, however, if you have disadvantage on the attack roll.
+      Once per turn, when you hit a creature with a Dexterity-based attack (such as with your shortsword or shortbow) and you have advantage on the attack roll, you can deal an extra 2d6 damage to your target. You don’t need advantage if another enemy of the target is within 5 feet of it and isn’t incapacitated. You can’t deal the extra damage, however, if you have disadvantage on the attack roll.
   - name: Lucky
     desc: |
       When you roll a natural 1 on an ­attack roll,­ ability­ check,­ or­ saving­ throw,­ you­ can­ reroll the die and must use the new roll.
