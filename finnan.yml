@@ -155,6 +155,8 @@ abilities:
     desc: |
       You can attempt to hide when you are obscured by a creature that is at least one size larger than you.
   - name: Cunning Action
+    desc: |
+      Your quick thinking and agility allow you to move and act quickly, so you can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
   - name: Second-story Work
   - name: Fast Hands
   - name: Thieves’ Cant
