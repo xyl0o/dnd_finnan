@@ -161,6 +161,8 @@ abilities:
     desc: |
       You gain the ability to climb faster than normal, so climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you can cover increases by a number of feet equal to your Dexterity modifier.
   - name: Fast Hands
+    desc: |
+      You can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, take the Use an Object action, or use your thieves’ tools to try to disarm a trap or open a lock.
   - name: Thieves’ Cant
     desc: |
       You know thieves’­ cant,­ a­ secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. You also understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous, whether loot is nearby, or whether the ­people ­in ­an area ­are easy marks or will provide a safe house for thieves on the run.
