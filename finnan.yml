@@ -157,7 +157,9 @@ abilities:
   - name: Cunning Action
     desc: |
       Your quick thinking and agility allow you to move and act quickly, so you can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
-  - name: Second-story Work
+  - name: Second-Story Work
+    desc: |
+      You gain the ability to climb faster than normal, so climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you can cover increases by a number of feet equal to your Dexterity modifier.
   - name: Fast Hands
   - name: Thieves’ Cant
     desc: |
