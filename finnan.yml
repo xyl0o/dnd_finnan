@@ -170,20 +170,33 @@ abilities:
 armor:
   - studded leather armor
 
-attacks:
-  - shortsword:
-      atk: +6
-      damage: 1d6 + 4
-      type: piercing
-  - shortsword:
-      atk: +6
-      damage: 1d6 + 4
-      type: piercing
-  - shortbow:
-      atk: +6
-      damage: 1d6 + 4
-      type: piercing
-      range: 80/320
+weapons:
+  - name: shortsword
+    atk: +6
+    damage: 1d6 + 4
+    type: piercing
+    properties:
+      - finesse
+      - light
+
+  - name: shortsword
+    atk: +6
+    damage: 1d6 + 4
+    type: piercing
+    properties:
+      - finesse
+      - light
+
+  - name: shortbow
+    atk: +6
+    damage: 1d6 + 4
+    type: piercing
+    properties:
+      - range:
+          normal: 80
+          long: 320
+      - ammunition
+      - two-handed
 
 max hit points: 26
 hit die:
