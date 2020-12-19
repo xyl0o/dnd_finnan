@@ -99,7 +99,7 @@ skills:
     base: wis
     focus: no
 
-passive wisdom: 10
+passive perception: 10
 
 level: 4
 
