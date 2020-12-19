@@ -1,0 +1,15 @@
+attacks:
+  - roll: /r d20 + 6
+    desc: normal atk
+  - roll: /r d20 + 4
+    desc: offhand atk
+  - roll: /r 2d20h + 6
+    desc: adv. atk
+  - roll: /r 2d20h + 4
+    desc: adv. offhand atk
+
+damage:
+  - roll: /r 1d6 + 4
+    desc: normal atk
+  - roll: /r 3d6 + 4
+    desc: sneak atk
