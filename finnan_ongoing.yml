@@ -1,5 +1,5 @@
 
-current hit points: 26 + 5
+current hit points: 26
 death saving throws: []
 exhaustion:
   lvl: 0
@@ -28,3 +28,5 @@ items:
     amount: 23
   - item: looted silver
     amount: 35
+  - item: diamond (100 gold)
+    amount: 2
