@@ -99,7 +99,7 @@ skills:
     base: wis
     focus: no
 
-passive wisdom: 10
+passive perception: 10
 
 level: 4
 
@@ -168,22 +168,37 @@ abilities:
       You know thieves’­ cant,­ a­ secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. You also understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous, whether loot is nearby, or whether the ­people ­in ­an area ­are easy marks or will provide a safe house for thieves on the run.
 
 armor:
-  - studded leather armor
+  - name: studded leather armor
+    armor_class: 12
+    weight: 13
 
-attacks:
-  - shortsword:
-      atk: +6
-      damage: 1d6 + 4
-      type: piercing
-  - shortsword:
-      atk: +6
-      damage: 1d6 + 4
-      type: piercing
-  - shortbow:
-      atk: +6
-      damage: 1d6 + 4
-      type: piercing
-      range: 80/320
+weapons:
+  - name: shortsword
+    atk: +6
+    damage: 1d6 + 4
+    type: piercing
+    properties:
+      - finesse
+      - light
+
+  - name: shortsword
+    atk: +6
+    damage: 1d6 + 4
+    type: piercing
+    properties:
+      - finesse
+      - light
+
+  - name: shortbow
+    atk: +6
+    damage: 1d6 + 4
+    type: piercing
+    properties:
+      - range:
+          normal: 80
+          long: 320
+      - ammunition
+      - two-handed
 
 max hit points: 26
 hit die:

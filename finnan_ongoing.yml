@@ -4,7 +4,7 @@ death saving throws: []
 exhaustion:
   lvl: 0
 
-current hit die: 4
+current hit die: 3
 
 currency:
   gold: 226
@@ -28,3 +28,5 @@ items:
     amount: 23
   - item: looted silver
     amount: 35
+  - item: diamond (100 gold)
+    amount: 2
