@@ -7,8 +7,8 @@ exhaustion:
 current hit die: 3
 
 currency:
-  gold: 226
-  silver: 255
+  gold: 249
+  silver: 290
   ep: 15
   copper: 246
 
@@ -24,9 +24,5 @@ items:
     amount: 4
   - item: Potions of healing (2d4+2)
     amount: 2
-  - item: looted gold
-    amount: 23
-  - item: looted silver
-    amount: 35
   - item: diamond (100 gold)
     amount: 2
