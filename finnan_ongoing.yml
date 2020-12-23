@@ -15,8 +15,7 @@ currency:
 items:
   - item: Days rations
     amount: 4
-  - item: diamond (100 gold)
-    amount: 2
+  - item: Piece of paper that neofystos owes me 200 gold (diamond)
   - item: scroll (misty step)
     price: 150 gold
   - item: scroll (lightning bolt)
