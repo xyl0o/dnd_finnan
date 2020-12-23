@@ -14,7 +14,7 @@ currency:
 
 items:
   - item: Days rations
-    amount: 5
+    amount: 4
   - item: Piece of paper that neofystos owes me 200 gold (diamond)
   - item: potion of healing (2d4 + 2)
     amount: 6
