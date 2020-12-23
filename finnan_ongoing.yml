@@ -7,8 +7,8 @@ exhaustion:
 current hit die: 3
 
 currency:
-  gold: 229
-  silver: 290
+  gold: 283
+  silver: 450
   ep: 15
   copper: 246
 
@@ -19,12 +19,6 @@ items:
     amount: 2
   - item: diamond (100 gold)
     amount: 2
-  - item: looted gold
-    amount: 30
-  - item: looted gold
-    amount: 24
-  - item: looted silver
-    amount : 160
   - item: scroll (misty step)
     price: 150 gold
   - item: scroll (lightning bolt)
