@@ -7,17 +7,10 @@ exhaustion:
 current hit die: 3
 
 currency:
-  gold: 249
+  gold: 229
   silver: 290
   ep: 15
   copper: 246
-
-silda items:
-  - smaragd gold frosh statue
-  - great axe
-  - 3 javelins
-  - chain mail
-  - longbow
 
 items:
   - item: Days rations
@@ -32,4 +25,9 @@ items:
     amount: 24
   - item: looted silver
     amount : 160
-  - item: mondsteinkelch
+  - item: scroll (misty step)
+    price: 150 gold
+  - item: scroll (lightning bolt)
+    price: 450 gold
+  - item: potion of healing (2d4 + 2)
+    amount: 4
