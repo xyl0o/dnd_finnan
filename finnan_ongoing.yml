@@ -7,14 +7,14 @@ exhaustion:
 current hit die: 4
 
 currency:
-  gold: 283
+  gold: 281
   silver: 450
   ep: 15
   copper: 246
 
 items:
   - item: Days rations
-    amount: 4
+    amount: 5
   - item: Piece of paper that neofystos owes me 200 gold (diamond)
   - item: potion of healing (2d4 + 2)
     amount: 6
