@@ -15,8 +15,6 @@ currency:
 items:
   - item: Days rations
     amount: 4
-  - item: Potions of healing (2d4+2)
-    amount: 2
   - item: diamond (100 gold)
     amount: 2
   - item: scroll (misty step)
@@ -24,4 +22,4 @@ items:
   - item: scroll (lightning bolt)
     price: 450 gold
   - item: potion of healing (2d4 + 2)
-    amount: 4
+    amount: 6
