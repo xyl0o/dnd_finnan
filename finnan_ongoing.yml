@@ -1,32 +1,20 @@
 
-current hit points: 26
+current hit points: 9 + 5
 death saving throws: []
 exhaustion:
-  lvl: 0
+  lvl: 2
 
-current hit die: 3
+current hit die: 4
 
 currency:
-  gold: 226
-  silver: 255
+  gold: 281
+  silver: 450
   ep: 15
   copper: 246
-
-silda items:
-  - smaragd gold frosh statue
-  - great axe
-  - 3 javelins
-  - chain mail
-  - longbow
 
 items:
   - item: Days rations
     amount: 4
-  - item: Potions of healing (2d4+2)
-    amount: 2
-  - item: looted gold
-    amount: 23
-  - item: looted silver
-    amount: 35
-  - item: diamond (100 gold)
-    amount: 2
+  - item: Piece of paper that neofystos owes me 200 gold (diamond)
+  - item: potion of healing (2d4 + 2)
+    amount: 5
