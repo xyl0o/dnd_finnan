@@ -18,6 +18,7 @@ items:
   - item: Piece of paper that neofystos owes me 200 gold (diamond)
   - item: potion of healing (2d4 + 2)
     amount: 4
+
   - item: potion of healing (2d4 + 2)
     amount: 3
   - item: silver
@@ -25,3 +26,13 @@ items:
   - item: ep
     amount: 160
   - item: pergament (map wellenbrencher)
+  - item: copper
+    amount: 750
+  - item: silver
+    amount: 180
+  - item: gold
+    amount: 30
+  - item: ep
+    amount: 62
+  - item: parfume vial (10 gold)
+    amount: 3
