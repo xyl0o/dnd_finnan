@@ -1,10 +1,10 @@
 
-current hit points: 9 + 5
+current hit points: 33
 death saving throws: []
 exhaustion:
-  lvl: 2
+  lvl: 0
 
-current hit die: 4
+current hit die: 5
 
 currency:
   gold: 281
@@ -17,4 +17,18 @@ items:
     amount: 4
   - item: Piece of paper that neofystos owes me 200 gold (diamond)
   - item: potion of healing (2d4 + 2)
-    amount: 5
+    amount: 4
+
+  - item: potion of healing (2d4 + 2)
+    amount: 1
+  - item: parfume vial (10 gold)
+    amount: 1
+
+  - item: silver
+    amount: 100
+  - item: copper
+    amount: 750
+  - item: ep
+    amount: 82
+  - item: gold
+    amount: 10
