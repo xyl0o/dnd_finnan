@@ -20,19 +20,15 @@ items:
     amount: 4
 
   - item: potion of healing (2d4 + 2)
-    amount: 3
+    amount: 1
+  - item: parfume vial (10 gold)
+    amount: 1
+
   - item: silver
-    amount: 220
-  - item: ep
-    amount: 160
-  - item: pergament (map wellenbrencher)
+    amount: 100
   - item: copper
     amount: 750
-  - item: silver
-    amount: 180
-  - item: gold
-    amount: 30
   - item: ep
-    amount: 62
-  - item: parfume vial (10 gold)
-    amount: 3
+    amount: 82
+  - item: gold
+    amount: 10
