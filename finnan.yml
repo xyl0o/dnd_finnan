@@ -7,7 +7,7 @@ stats:
   dex:
     mod: +4
     level: 18
-    saving: +6
+    saving: +7
   con:
     mod: +1
     level: 12
@@ -15,7 +15,7 @@ stats:
   int:
     mod: +1
     level: 13
-    saving: +3
+    saving: +4
   wis:
     mod: +0
     level: 10
@@ -27,7 +27,7 @@ stats:
 
 skills:
   acrobatics:
-    mod: +6
+    mod: +7
     base: dex
     focus: yes
   animal handling:
@@ -43,7 +43,7 @@ skills:
     base: str
     focus: no
   deception:
-    mod: +5
+    mod: +6
     base: cha
     focus: yes
   history:
@@ -59,7 +59,7 @@ skills:
     base: cha
     focus: no
   investigation:
-    mod: +3
+    mod: +4
     base: int
     focus: yes
   medicine:
@@ -75,7 +75,7 @@ skills:
     base: wis
     focus: no
   performance:
-    mod: +5
+    mod: +6
     base: cha
     focus: yes
   persuasion:
@@ -87,11 +87,11 @@ skills:
     base: int
     focus: no
   sleight of hand:
-    mod: +6
+    mod: +7
     base: dex
     focus: yes
   stealth:
-    mod: +8
+    mod: +10
     base: dex
     focus: yes
   survival:
@@ -106,7 +106,7 @@ level: 4
 armor class: 16
 initiative: +4
 speed: 25 #ft
-proficiency: +2
+proficiency: +3
 
 proficiencies:
   - light armor
@@ -138,7 +138,7 @@ languages:
 abilities:
   - name: Sneak Attack
     desc: |
-      Once per turn, when you hit a creature with a Dexterity-based attack (such as with your shortsword or shortbow) and you have advantage on the attack roll, you can deal an extra 2d6 damage to your target. You don’t need advantage if another enemy of the target is within 5 feet of it and isn’t incapacitated. You can’t deal the extra damage, however, if you have disadvantage on the attack roll.
+      Once per turn, when you hit a creature with a Dexterity-based attack (such as with your shortsword or shortbow) and you have advantage on the attack roll, you can deal an extra 3d6 damage to your target. You don’t need advantage if another enemy of the target is within 5 feet of it and isn’t incapacitated. You can’t deal the extra damage, however, if you have disadvantage on the attack roll.
   - name: Lucky
     desc: |
       When you roll a natural 1 on an ­attack roll,­ ability­ check,­ or­ saving­ throw,­ you­ can­ reroll the die and must use the new roll.
@@ -174,7 +174,7 @@ armor:
 
 weapons:
   - name: shortsword
-    atk: +6
+    atk: +7
     damage: 1d6 + 4
     type: piercing
     properties:
@@ -182,7 +182,7 @@ weapons:
       - light
 
   - name: shortsword
-    atk: +6
+    atk: +7
     damage: 1d6 + 4
     type: piercing
     properties:
@@ -190,7 +190,7 @@ weapons:
       - light
 
   - name: shortbow
-    atk: +6
+    atk: +7
     damage: 1d6 + 4
     type: piercing
     properties:
@@ -200,9 +200,9 @@ weapons:
       - ammunition
       - two-handed
 
-max hit points: 26
+max hit points: 33
 hit die:
-  num: 4
+  num: 5
   type: d8
 
 items:
