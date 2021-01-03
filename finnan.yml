@@ -224,8 +224,6 @@ items:
   - item: Feet of hempen rope
     amount: 50
   - item: Hooded lantern
-  - item: Flasks of oil
-    amount: 2
   - item: Tinderbox
   - item: Waterskin
   - item: Crowbar
